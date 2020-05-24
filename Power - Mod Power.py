@@ -1,0 +1,8 @@
+a=float(input())
+b=float(input())
+c=float(input())
+print(int(pow(a,b)))
+a=int(a)
+b=int(b)
+c=int(c)
+print(pow(a,b,c))
